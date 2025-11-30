@@ -120,6 +120,7 @@ http://localhost:5173
 
 ---
 
+
 ## 📂 **Data Format Guide**
 
 OPTIMUS supports generic timetable formats. It fuzzy-matches common headers:
@@ -153,8 +154,11 @@ src/
 │       └── parser.js              # DAYS_H time parsing logic
 ├── App.jsx                        # App root + routing
 └── index.css                      # Global styles
+
 ```
 
+## 🚀 Deployed Application
+[https://optimustimetable.vercel.app](https://optimustimetable.vercel.app/)
 
 ## 🤝 **Contributing**
 
