@@ -158,7 +158,7 @@ src/
 ```
 
 ## 🚀 Deployed Application
-[https://optimustimetable.vercel.app](https://optimustimetable.vercel.app/)
+[https://optimustimetable.vercel.app](https://optimus-timetable.vercel.app/)
 
 ## 🤝 **Contributing**
 
